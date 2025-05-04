@@ -1,4 +1,4 @@
-# Questions form page 12
+# Questions from page 12
 Q.1 
 Use the print() function to display text
 
