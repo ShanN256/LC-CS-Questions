@@ -1,12 +1,18 @@
-# Questions from page 18
+# :computer: Questions from page 18
+This document contains basic programming tasks that involve assinging variables and performing calulations with them.
 
-Q.1
+---
+## :blue_book: Table of Contents
+- [Create a variable and display it](#q.1)
+- [Q3: More Float Calculations](#q3:-more-float-calculations)
+
+# Q.1
 Create a variable and display it appropriately
 
 Q.2
 With 2 floats, display their sum, difference and product
 
-Q.3
+## Q3: More Float Calculations
 With 2 floats, calculate and display their averagem the remainder after division and the average squared
 
 Q.4
