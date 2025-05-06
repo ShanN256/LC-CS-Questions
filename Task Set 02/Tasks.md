@@ -19,3 +19,13 @@ Q.5
 Create a program that converts miles to kilometres. 1 mile =1.60935 km. 
 
 Q.6
+Assign variables of a cylinder h and r. 
+``` python
+Volume=π*r^2*h
+```
+
+Q.7
+Weight on Moon= 16.5% of weight on Earth
+
+Q.8
+Assign variables for length and width for both a house and garden on a property. Find the Area of garden. If it takes 1 second to cut 2 square metres of grass on the garden, how long will it take to mow the lawn?
