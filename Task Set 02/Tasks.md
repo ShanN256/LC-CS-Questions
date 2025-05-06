@@ -2,6 +2,7 @@
 This document contains basic programming tasks that involve assinging variables and performing calulations with them.
 
 ---
+
 ## :blue_book: Table of Contents
 - [Q.1: Create a variable and display it](#q-1)
 - [Q.2: Float operations :brain:](#q-2)
@@ -11,6 +12,8 @@ This document contains basic programming tasks that involve assinging variables 
 - [Q.6: Volume Calculations](#q-6)
 - [Q.7: Moon Weight Conversion :full_moon:](#q-7)
 - [Q.8: Garden Area and Moving Time :house_with_garden:](#q-8)
+
+---
 
 ## Q 1:
 Create a variable and **display** it appropriately
@@ -30,10 +33,10 @@ Celsius=(5/9)*(Fahrenheit - 32)
 ```
 
 ## Q 5:
-Converts miles to kilometres and find out how much it costs to travel there via helicopter. **Given that:**
+Converts miles to kilometres and find out how much it costs to travel that distance via helicopter. **Given that:**
 ``` python
 1 mile = 1.60935 km.
-cost of flight = 900 euro per km
+cost_per_km = 900
 ```
 
 ## Q 6:
