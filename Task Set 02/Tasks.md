@@ -30,13 +30,15 @@ Celsius=(5/9)*(Fahrenheit - 32)
 ```
 
 ## Q 5:
-Converts miles to kilometres. **Given that:**
+Converts miles to kilometres and find out how much it costs to travel there via helicopter. **Given that:**
 ``` python
-1 mile =1.60935 km. 
+1 mile = 1.60935 km.
+cost of flight = 900 euro per km
 ```
 
 ## Q 6:
-Assign variables of a cylinder h and r.  Calculate the **Volume** of the cylinder.
+Assign variables of a cylinder h and r.  Calculate the **Volume** of the cylinder. <br>
+Create a variable storing the size of a liquid that is larger than the cylinder, display **how many cylinders** is needed to carry all the water
 ``` python
 Volume=π*r^2*h
 ```
