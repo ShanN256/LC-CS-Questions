@@ -13,31 +13,46 @@ This document contains basic programming tasks that involve assinging variables 
 - [Q.8: Garden Area and Moving Time :house_with_garden:](#q-8)
 
 ## Q 1:
-Create a variable and display it appropriately
+Create a variable and **display** it appropriately
 
 ## Q 2:
-With 2 floats, display their sum, difference and product
+With 2 floats, display their **sum**, **difference** and **product**
 
 ## Q 3:
-With 2 floats, calculate and display their average the remainder after division and the average squared
+With 2 floats, calculate and display their **average**, the **remainder after division** of each and the **average squared**
 
 ## Q 4:
-Temperature=87 degrees Fahrenheit. Formula:  
+Convert degrees Fahrenheit to degrees Celsius.
+**Given that:** 
 ``` python
+Temperature=87 #degrees Fahrenheit
 Celsius=(5/9)*(Fahrenheit - 32)
 ```
 
 ## Q 5:
-Create a program that converts miles to kilometres. 1 mile =1.60935 km. 
+Converts miles to kilometres. **Given that:**
+``` python
+1 mile =1.60935 km. 
+```
 
 ## Q 6:
-Assign variables of a cylinder h and r. 
+Assign variables of a cylinder h and r.  Calculate the **Volume** of the cylinder.
 ``` python
 Volume=π*r^2*h
 ```
 
 ## Q 7:
+Display your weight on the moon. **Given that:**
+``` python
 Weight on Moon= 16.5% of weight on Earth
+```
 
 ## Q 8:
-Assign variables for length and width for both a house and garden on a property. Find the Area of garden. If it takes 1 second to cut 2 square metres of grass on the garden, how long will it take to mow the lawn?
+- Assign variables for length and width for a garden 🌳
+- Assign variables for length and width for a house located inside the garden 🏠
+- Find the Area of the garden on its own
+- Find out how long it takes to move the lawn
+  
+**Given that:**
+It takes 1 second to cut 2 square metres of grass
+
